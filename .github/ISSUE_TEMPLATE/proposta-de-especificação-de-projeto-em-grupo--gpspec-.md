@@ -22,9 +22,9 @@ Use este formulário para sugerir **uma nova especificação técnica** para Pro
 ## Nome sugerido do repositório
 
 Siga o padrão:
-
+```
 gpspec-<nome-do-projeto>-<stack-opcional>
-
+```
 
 **Nome sugerido:**
 > 
